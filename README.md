@@ -4,7 +4,7 @@ I am a third-year student pursuing a BSc (Hons) in Business Intelligence and Dat
 
 I am dedicated to leveraging data-driven insights to facilitate business growth and decision-making.
 
-I have developed proficiency in tools such as Python, Excel, Power BI, SQL and currently in R for analyzing datasets and identifying meaningful patterns.
+I have developed proficiency in tools such as Python, Excel, Power BI, SQL and currently developing my skills in R for analyzing datasets and identifying meaningful patterns.
 
 Committed to continuous learning, I actively seek opportunities to enhance my skills in data analytics and contribute to projects that utilize data for impactful solutions. 
 My CV in [pdf]().
