@@ -22,9 +22,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - R
     - [Legendary Pokémon Analysis (Study Project)](url)
   - Excel
-    - [](url)
   - Power BI
-    - [Optimizing Retail Operations For Walmart.Inc - Data Analysis Group Research Project]
+    - [Optimizing Retail Operations For Walmart.Inc - Data Analysis Group Research Project]()
     - [Ebay Product Performance Analysis](https://github.com/Deirdre24/Ebay-Product-Performance-Analysis.git)
 
     
