@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing Customer Churn](url)
+    - [Analyzing Customer Churn](https://github.com/Deirdre24/Data-Analysis-using-Python-in-Jupyter-Notebook.git)
     - [Creating a Setswana Language Learning Game]()
   - SQL
     - [Basic DBMS Design for Kadimo Loans](url)
