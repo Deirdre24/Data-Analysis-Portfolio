@@ -24,6 +24,6 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel
     - [](url)
   - Power BI
-    - [](url)
+    - [Ebay Product Performance Analysis](https://github.com/Deirdre24/Ebay-Product-Performance-Analysis.git)
 
     
