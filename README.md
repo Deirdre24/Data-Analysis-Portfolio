@@ -1,6 +1,6 @@
 # Deirdre Gouta Mmolotsa - Portfolio
 ## About
-I am a third-year student pursuing a BSc (Hons) in Business Intelligence and Data Analytics, equipped with a solid foundation in data analysis and visualization. 
+Hi, I'm Deirdre! A third-year student pursuing a BSc (Hons) in Business Intelligence and Data Analytics, equipped with a solid foundation in data analysis and visualization. 
 
 I am dedicated to leveraging data-driven insights to facilitate business growth and decision-making.
 
