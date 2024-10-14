@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Legendary Pokémon Analysis (Study Project)](url)
   - Excel
   - Power BI
-    - [Optimizing Retail Operations For Walmart.Inc - Data Analysis Group Research Project]()
+    - [Optimizing Retail Operations For Walmart.Inc - Data Analysis Group Research Project](https://github.com/Deirdre24/Optimizing-Retail-Operations-For-Walmart.Inc---Data-Analysis-Group-Research-Project.git)
     - [Ebay Product Performance Analysis](https://github.com/Deirdre24/Ebay-Product-Performance-Analysis.git)
 
     
