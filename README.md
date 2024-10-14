@@ -7,7 +7,7 @@ I am dedicated to leveraging data-driven insights to facilitate business growth 
 I have developed proficiency in tools such as Python, Excel, Power BI, SQL and currently developing my skills in R for analyzing datasets and identifying meaningful patterns.
 
 Committed to continuous learning, I actively seek opportunities to enhance my skills in data analytics and contribute to projects that utilize data for impactful solutions. 
-My CV in [pdf](https://github.com/Deirdre24/My-Portfolio/blob/main/Deirdre%20Gouta%20Mmolotsa%20CV%20(2).pdf).
+My CV in [pdf](https://github.com/Deirdre24/My-Portfolio/blob/main/Deirdre%20Gouta%20Mmolotsa%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.
 
