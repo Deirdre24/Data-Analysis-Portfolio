@@ -20,7 +20,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [Basic DBMS Design for Kadimo Loans](url)
   - R
-    - [Legendary Pokémon Analysis (Study Project)](url)
+    - [Global Alcohol Consumption: Socio-Economic Insights and Interactive Visualization](url)
+    - 
   - Excel
     - [Exploring-Global-Metrics-Insights-into-International-Policymaking](https://github.com/Deirdre24/Exploring-Global-Metrics-Insights-into-International-Policymaking)
   - Power BI
