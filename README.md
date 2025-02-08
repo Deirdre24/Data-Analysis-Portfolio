@@ -18,16 +18,16 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Customer-Churn-Analysis-using-Python-in-Jupyter-Notebook](https://github.com/Deirdre24/Data-Analysis-using-Python-in-Jupyter-Notebook.git)
     - [Healthcare Billing Amount Analysis and Predictive Modeling](url)
     - [Creating a Setswana Language Learning Game](https://github.com/Deirdre24/Setswana-Language-Learning-Game.git)
-  - SQL
-    - [Basic DBMS Design for Kadimo Loans](url)
+  
   - R
     - [Global Alcohol Consumption and Socio-Economic Factors: A Comparative Analysis](https://github.com/Deirdre24/Global-Alcohol-Consumption-and-Socio-Economic-Factors-A-Comparative-Analysis.git)
     - [Litecoin Trading Data Analysis and Forecasting](https://github.com/Deirdre24/Litecoin-Trading-Data-Analysis-and-Forecasting.git)
   - Excel
     - [Exploring-Global-Metrics-Insights-into-International-Policymaking](https://github.com/Deirdre24/Exploring-Global-Metrics-Insights-into-International-Policymaking)
   - Power BI
-  - -[Plant.Co Dynamic Performance Dashboard (Sales, GP, Quantity | 2023-2024)](https://github.com/Deirdre24/Plant.Co-Dynamic-Performance-Dashboard-2023-2024-.git)
+    - [Plant.Co Dynamic Performance Dashboard (Sales, GP, Quantity | 2023-2024)](https://github.com/Deirdre24/Plant.Co-Dynamic-Performance-Dashboard-2023-2024-.git)
     - [Optimizing Retail Operations For Walmart.Inc - Data Analysis Group Research Project](https://github.com/Deirdre24/Optimizing-Retail-Operations-For-Walmart.Inc---Data-Analysis-Group-Research-Project.git)
     - [Ebay Product Performance Analysis](https://github.com/Deirdre24/Ebay-Product-Performance-Analysis.git)
 
-    
+    - SQL
+    - [Basic DBMS Design for Kadimo Loans](url)
