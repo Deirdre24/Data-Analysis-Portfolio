@@ -26,6 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel
     - [Exploring-Global-Metrics-Insights-into-International-Policymaking](https://github.com/Deirdre24/Exploring-Global-Metrics-Insights-into-International-Policymaking)
   - Power BI
+  - -[Plant.Co Dynamic Performance Dashboard (Sales, GP, Quantity | 2023-2024)](https://github.com/Deirdre24/Plant.Co-Dynamic-Performance-Dashboard-2023-2024-.git)
     - [Optimizing Retail Operations For Walmart.Inc - Data Analysis Group Research Project](https://github.com/Deirdre24/Optimizing-Retail-Operations-For-Walmart.Inc---Data-Analysis-Group-Research-Project.git)
     - [Ebay Product Performance Analysis](https://github.com/Deirdre24/Ebay-Product-Performance-Analysis.git)
 
