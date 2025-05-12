@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Customer-Churn-Analysis-using-Python-in-Jupyter-Notebook](https://github.com/Deirdre24/Data-Analysis-using-Python-in-Jupyter-Notebook.git)
-    - [Healthcare Billing Amount Analysis and Predictive Modeling](url)
+    - [Machine Learning and Predictive Modeling](https://github.com/Deirdre24/Intelligent-Systems-Project.git)
     - [Creating a Setswana Language Learning Game](https://github.com/Deirdre24/Setswana-Language-Learning-Game.git)
   
   - R
