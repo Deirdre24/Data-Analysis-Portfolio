@@ -15,9 +15,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Customer-Churn-Analysis-using-Python-in-Jupyter-Notebook](https://github.com/Deirdre24/Data-Analysis-using-Python-in-Jupyter-Notebook.git)
     - [Machine Learning and Predictive Modeling](https://github.com/Deirdre24/Intelligent-Systems-Project.git)
     - [Creating a Setswana Language Learning Game](https://github.com/Deirdre24/Setswana-Language-Learning-Game.git)
+    - [Customer-Churn-Analysis-using-Python-in-Jupyter-Notebook](https://github.com/Deirdre24/Data-Analysis-using-Python-in-Jupyter-Notebook.git)
   
   - R
     - [Global Alcohol Consumption and Socio-Economic Factors: A Comparative Analysis](https://github.com/Deirdre24/Global-Alcohol-Consumption-and-Socio-Economic-Factors-A-Comparative-Analysis.git)
