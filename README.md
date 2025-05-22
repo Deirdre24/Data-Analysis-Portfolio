@@ -20,8 +20,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Customer-Churn-Analysis-using-Python-in-Jupyter-Notebook](https://github.com/Deirdre24/Data-Analysis-using-Python-in-Jupyter-Notebook.git)
   
   - R
-    - [Global Alcohol Consumption and Socio-Economic Factors: A Comparative Analysis](https://github.com/Deirdre24/Global-Alcohol-Consumption-and-Socio-Economic-Factors-A-Comparative-Analysis.git)
     - [Litecoin Trading Data Analysis and Forecasting](https://github.com/Deirdre24/Litecoin-Trading-Data-Analysis-and-Forecasting.git)
+    - [Global Alcohol Consumption and Socio-Economic Factors: A Comparative Analysis](https://github.com/Deirdre24/Global-Alcohol-Consumption-and-Socio-Economic-Factors-A-Comparative-Analysis.git)
   - Excel
     - [Exploring-Global-Metrics-Insights-into-International-Policymaking](https://github.com/Deirdre24/Exploring-Global-Metrics-Insights-into-International-Policymaking)
   - Power BI
