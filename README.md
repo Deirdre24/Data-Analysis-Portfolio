@@ -21,6 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
   
   - R
     - [Litecoin Trading Data Analysis and Forecasting](https://github.com/Deirdre24/Litecoin-Trading-Data-Analysis-and-Forecasting.git)
+    - [Customer Segmenmtation using Supervised and Unsupervised machine Learning Methods](https://github.com/Deirdre24/Customer-Segmentation-using-Supervised-and-Unsupervised-Learning-Methods.git)
     - [Global Alcohol Consumption and Socio-Economic Factors: A Comparative Analysis](https://github.com/Deirdre24/Global-Alcohol-Consumption-and-Socio-Economic-Factors-A-Comparative-Analysis.git)
   - Excel
     - [Exploring-Global-Metrics-Insights-into-International-Policymaking](https://github.com/Deirdre24/Exploring-Global-Metrics-Insights-into-International-Policymaking)
