@@ -4,7 +4,7 @@ Hello, I'm Deirdre! A third-year student pursuing a BSc (Hons) in Business Intel
 
 I am dedicated to leveraging data-driven insights to facilitate business growth and decision-making.
 
-I have developed proficiency in tools such as Python, Excel, Power BI, SQL and currently developing my skills in R for analyzing datasets and identifying meaningful patterns.
+I have developed proficiency in tools such as Python, Power BI, R and Excel, and currently developing my skills in SQL for analyzing datasets and identifying meaningful patterns.
 
 Committed to continuous learning, I actively seek opportunities to enhance my skills in data analytics and contribute to projects that utilize data for impactful solutions. 
 My CV in [pdf](https://github.com/Deirdre24/Data-Analysis-Portfolio/blob/3db9182abfee786e429b0515c8daafd0ad0d513e/Deirdre%20Gouta%20Mmolotsa%20CV%20(1).pdf).
