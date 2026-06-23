@@ -1,13 +1,13 @@
 # Deirdre Gouta Mmolotsa - Portfolio
 ## About
-Hello, I'm Deirdre! A third-year student pursuing a BSc (Hons) in Business Intelligence and Data Analytics, equipped with a solid foundation in data analysis and visualization. 
+Hello, I'm Deirdre! A Final year student pursuing a BSc (Hons) in Business Intelligence and Data Analytics, equipped with a solid foundation in data analysis and visualization. 
 
 I am dedicated to leveraging data-driven insights to facilitate business growth and decision-making.
 
 I have developed proficiency in tools such as Python, Power BI, R and Excel, and currently developing my skills in SQL for analyzing datasets and identifying meaningful patterns.
 
 Committed to continuous learning, I actively seek opportunities to enhance my skills in data analytics and contribute to projects that utilize data for impactful solutions. 
-My CV in [pdf](https://github.com/Deirdre24/Data-Analysis-Portfolio/blob/3db9182abfee786e429b0515c8daafd0ad0d513e/Deirdre%20Gouta%20Mmolotsa%20CV%20(1).pdf).
+My CV: Available upon request [pdf]().
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.
 
