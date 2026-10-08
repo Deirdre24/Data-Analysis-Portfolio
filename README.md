@@ -1,4 +1,4 @@
-# Deirdre Gouta Mmolotsa — Data Analytics Portfolio
+# Deirdre Gouta Mmolotsa - Data Analytics Portfolio
 
 ## About
 I am a Business Intelligence and Data Analytics graduate from Botswana Accountancy College (BSc Honours, First Class, 2026), with hands-on experience in data analysis, machine learning, business intelligence, and AI-powered application development.
